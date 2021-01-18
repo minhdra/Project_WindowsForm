@@ -60,6 +60,18 @@
     <Compile Include="TH1\Bai2_TH1.Designer.cs">
       <DependentUpon>Bai2_TH1.cs</DependentUpon>
     </Compile>
+    <Compile Include="TH1\Bai3_TH1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TH1\Bai3_TH1.Designer.cs">
+      <DependentUpon>Bai3_TH1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TH1\Bai4_TH1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TH1\Bai4_TH1.Designer.cs">
+      <DependentUpon>Bai4_TH1.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -74,6 +86,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="TH1\Bai2_TH1.resx">
       <DependentUpon>Bai2_TH1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TH1\Bai3_TH1.resx">
+      <DependentUpon>Bai3_TH1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TH1\Bai4_TH1.resx">
+      <DependentUpon>Bai4_TH1.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

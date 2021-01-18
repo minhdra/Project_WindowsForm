@@ -18,7 +18,8 @@ namespace Project_WindowsForm
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new Bai1_TH1());
-            Application.Run(new Bai2_TH1());
+            //Application.Run(new Bai2_TH1());
+            Application.Run(new Bai3_TH1());
         }
     }
 }
